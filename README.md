@@ -6,15 +6,6 @@ This **semi-open source** project demonstrates how hackers use social engineerin
 
 ## 🧠 How It Works
 
-Hackers create fake websites and use **social engineering** to manipulate users into granting permissions. Once a user clicks on the malicious link, they are asked to grant various permissions, such as:
-
-- Camera 📷
-- Microphone 🎤
-- Keyboard ⌨️
-- GPS Location 📍
-
-If the user grants these permissions, the hacker can gain access to sensitive data, including camera, microphone, and browser information. However, if the user denies the permissions, the hacker can still secretly collect browser-related data and more.
-
 **📸 Data Reception on public code API**
 
 ![public](https://i.postimg.cc/3xp1PkXT/IMG-20250730-155932.jpg)
