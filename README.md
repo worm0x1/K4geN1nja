@@ -1,6 +1,6 @@
 ## 🧑‍💻 K4geN1nja
 
-This **semi-open source** demonstrates how hackers use social engineering to collect a user's device information through a malicious link. Learn how this method works and how to protect yourself.
+This **semi-open source** project demonstrates how hackers use social engineering to collect a user's device information through a malicious link. Learn how this method works and how to protect yourself.
 
 ---
 
