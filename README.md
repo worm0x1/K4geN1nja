@@ -30,6 +30,12 @@ This **semi-open source** project demonstrates how hackers use social engineerin
 
 ---
 
+**🌐 Free Hosting & Subdomain**
+
+> https://youtu.be/TV8CI3w6PlE
+
+---
+
 ## ⚙️ Build Your Own Site
 
 Create a similar setup by entering your **Telegram Bot Token** and **Chat ID** on the platform below 🔒
