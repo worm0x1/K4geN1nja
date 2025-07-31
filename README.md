@@ -10,6 +10,12 @@ This **semi-open source** project demonstrates how hackers use social engineerin
 
 ![public](https://i.postimg.cc/3xp1PkXT/IMG-20250730-155932.jpg)
 
+**✅ Public code API example**
+
+```bash
+https://yourdomain.com/index.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+```
+
 **📸 Data Reception on private code API**
 
 ![private](https://i.postimg.cc/ZnBppQjS/IMG-20250730-155721.jpg)
