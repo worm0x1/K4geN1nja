@@ -8,7 +8,7 @@ This **semi-open source** project demonstrates how hackers use social engineerin
 
 **📸 Data Reception on public code API**
 
-![public](https://i.postimg.cc/3xp1PkXT/IMG-20250730-155932.jpg)
+![public](https://i.postimg.cc/xTKJfnSs/IMG-20251029-175848.jpg)
 
 **✅ Public code API example**
 
