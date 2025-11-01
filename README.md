@@ -27,6 +27,15 @@ https://yourdomain.com/index.html?token=your_token&id=your_chatid
 
 ## 🛡️ How to Stay Safe
 
+- 🚫 Do **not** allow camera or microphone access to unknown sites.  
+- 📍 Be cautious with location/GPS requests — deny unless the site is trusted and necessary.  
+- ⌨️ Never enter sensitive info when a site asks for keyboard/input permissions; assume it can capture keystrokes.  
+- 🌐 Treat requests for user‑agent or IP‑related data as privacy risks — block or deny if not essential.  
+- 🔎 Verify the URL and use HTTPS before granting any permission.  
+- 🦊 Use privacy browsers (Firefox, Brave, Tor) and script blockers (uBlock Origin / NoScript).  
+- 🛠️ Revoke site permissions regularly in browser settings; consider covering your camera when not in use.  
+- 👤 Browse with a separate, non‑admin profile for risky sites and keep OS/browser updated.  
+- 🧠 If a site pressures you with “free download” or urgent prompts, deny permissions and leave — it’s likely social engineering
 * Avoid clicking on suspicious links.
 * Use **Firefox or Brave or Tor Browser** for enhanced security, as it blocks many malicious scripts by default.
 
@@ -44,7 +53,7 @@ https://yourdomain.com/index.html?token=your_token&id=your_chatid
 
 ## ⚙️ Test this
 
-Create a educational similar setup by entering your **Telegram Bot Token** and **Chat ID** on the platform below 🔒
+Create a similar educational setup by entering your **Telegram Bot Token** and **Chat ID** on the platform below 🔒
 
 > [▶️ Launch Test Site](https://vide0chat.vercel.app/)
 
